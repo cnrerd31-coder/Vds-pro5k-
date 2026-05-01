@@ -23,13 +23,7 @@ import struct
 import asyncio
 from flask import Flask
 from threading import Thread
-
-from telebot.types import (
-    InlineKeyboardMarkup,
-    InlineKeyboardButton,
-    ReplyKeyboardMarkup,
-    KeyboardButton
-)
+from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 app = Flask('')
 
