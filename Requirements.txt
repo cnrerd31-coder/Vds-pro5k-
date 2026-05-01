@@ -5,3 +5,6 @@ requests
 aiohttp
 psutil
 pyTelegramBotAPI
+psutil
+flask
+requests
