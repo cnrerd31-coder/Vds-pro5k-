@@ -1,0 +1,10 @@
+pyrogram
+tgcrypto
+flask
+requests
+aiohttp
+psutil
+pyTelegramBotAPI
+psutil
+flask
+requests
