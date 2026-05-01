@@ -24,6 +24,13 @@ import asyncio
 from flask import Flask
 from threading import Thread
 
+from telebot.types import (
+    InlineKeyboardMarkup,
+    InlineKeyboardButton,
+    ReplyKeyboardMarkup,
+    KeyboardButton
+)
+
 app = Flask('')
 
 @app.route('/')
