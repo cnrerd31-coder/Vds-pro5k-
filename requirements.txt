@@ -1,10 +1,7 @@
-pyrogram
-tgcrypto
+pyTelegramBotAPI
 flask
 requests
 aiohttp
 psutil
-pyTelegramBotAPI
-psutil
-flask
-requests
+pyrogram
+tgcrypto
