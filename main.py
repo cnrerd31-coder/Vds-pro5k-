@@ -46,7 +46,7 @@ def keep_alive():
 TOKEN = '8668348358:AAF1T_Mqo8ZKJguRAoNSESndB8EGqcyxVFs'
 OWNER_ID = 7250471858
 ADMIN_ID = 7250471858
-YOUR_USERNAME = '@Lunavdsligtg_bot'
+YOUR_USERNAME = '@lunasloury'
 UPDATE_CHANNEL = 'https://t.me/glearya'
 
 # Klasör kurulumu - mutlak yollar kullanılarak
